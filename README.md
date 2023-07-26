@@ -15,3 +15,5 @@ the order is :
 6-->Handling_Imbalaced_Data
 
 7-->Feature_extraction_of_Text_usig_tf_idf_vectorizer
+
+8-->Numerical_Dataset_Pre_Processing_Use_Case

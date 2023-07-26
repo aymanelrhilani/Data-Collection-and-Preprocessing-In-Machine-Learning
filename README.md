@@ -13,3 +13,5 @@ the order is :
 5-->Train_Test_Split
 
 6-->Handling_Imbalaced_Data
+
+7-->Feature_extraction_of_Text_usig_tf_idf_vectorizer

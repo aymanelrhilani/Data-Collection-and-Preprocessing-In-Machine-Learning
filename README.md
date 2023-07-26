@@ -11,3 +11,5 @@ the order is :
 4-->Label_Encoding 
 
 5-->Train_Test_Split
+
+6-->Handling_Imbalaced_Data
